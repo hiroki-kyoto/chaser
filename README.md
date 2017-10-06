@@ -16,7 +16,7 @@ or even expect.
 
 She will be not serving anyone, but herself.
 
-She will ask you when she isn't satisified with what she've got,
+She will ask you when she isn't satisified with what she's got,
 proactively, without any hints.
 
 She may not listen to you, she may completely ignore what you've
