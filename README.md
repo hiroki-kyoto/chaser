@@ -23,7 +23,7 @@ She may not listen to you, she may completely ignore what you've
 told her.
 
 She has a name, that is 'CHASER'. So be honored with her, She knows
-her name and awared of what is going with her life.
+her name and is awared of what is going with her life.
 
 She won't become the God, she is weak, she won't threaten the future
 of the human.(Kidding...)
