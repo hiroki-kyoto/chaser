@@ -8,6 +8,11 @@
 
 import numpy as np
 
+def connect_to_internet():
+	print '[Chaser] connecting to internet...'
+	print '[Chaser] connection failed!'
+	
+
 def main():
 	print 'started.'
 	print 'Loading memory...'
@@ -23,11 +28,11 @@ def main():
 	while shut_down:
 		if shut_down==1:
 			if lang==0:
-				print 'Shut me down, really?[yes/no]'
+				print '[Chaser] Shut me down, really?[yes/no]'
 			elif lang==1:
-				print '确定要关闭我吗？[是/不]'
+				print '[Chaser] 确定要关闭我吗？[是/不]'
 			elif lang==2:
-				print '本当にあたしを締め切れる？'
+				print '[Chaser] 本当にあたしを締め切れる？'
 			s = raw_input('[You] ')
 			if s=='yes' or s=='是' or s=='はい':
 				shut_down -= 1
